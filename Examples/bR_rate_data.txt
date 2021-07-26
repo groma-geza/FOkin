@@ -1,0 +1,12 @@
+-Inf	-Inf	5.2	-Inf	-Inf	-Inf	-Inf	-Inf	-Inf	-Inf	-Inf	-Inf
+6	-Inf	-Inf	5.3	-Inf	-Inf	-Inf	-Inf	-Inf	-Inf	-Inf	-Inf
+6	-Inf	-Inf	-Inf	-Inf	-Inf	-Inf	-Inf	-Inf	-Inf	-Inf	-Inf
+-Inf	5.7	5.5	-Inf	-Inf	6.4	-Inf	-Inf	-Inf	-Inf	-Inf	-Inf
+-Inf	-Inf	-Inf	-Inf	-Inf	-Inf	6.3	-Inf	-Inf	-Inf	-Inf	-Inf
+-Inf	-Inf	-Inf	5.4	-Inf	-Inf	4.2	-Inf	-Inf	-Inf	-Inf	-Inf
+-Inf	-Inf	-Inf	-Inf	6.6	5.3	-Inf	2.6	-Inf	-Inf	-Inf	-Inf
+-Inf	-Inf	-Inf	-Inf	-Inf	-Inf	4	-Inf	3.1	-Inf	-Inf	-Inf
+-Inf	-Inf	-Inf	-Inf	-Inf	-Inf	-Inf	3	-Inf	2.1	-Inf	-Inf
+-Inf	-Inf	-Inf	-Inf	-Inf	-Inf	-Inf	-Inf	3	-Inf	3.4	-Inf
+-Inf	-Inf	-Inf	-Inf	-Inf	-Inf	-Inf	-Inf	-Inf	2.6	-Inf	-Inf
+-Inf	-Inf	-Inf	-Inf	-Inf	-Inf	-Inf	-Inf	-Inf	-Inf	3	-Inf

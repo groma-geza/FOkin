@@ -19,3 +19,16 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+Code/@MultiElnetPDCO/private/pdco.m is not covered by this license, as it is an
+unmodified copy from https://github.com/mxsaunders/pdco.
+The software for PDCO is provided by SOL, Stanford University under the terms of 
+the OSI Common Public License (CPL)
+   http://www.opensource.org/licenses/cpl1.0.php
+or the BSD License
+   http://www.opensource.org/licenses/bsd-license.php.
+
+Code/@MultiElnetADMM/do_optimize.m is a modified version of the group_lasso.m
+function written by Boyd, S.; Parikh, N.; Chu, E.; Peleato, B. and Eckstein, J., 
+and available in the collection 'MATLAB scripts for alternating direction
+method of multipliers', https://web.stanford.edu/~boyd/papers/admm.
